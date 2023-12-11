@@ -1,4 +1,4 @@
 import Navbar from "./Navbar";
 import Loader from "./Loader";
-
-export { Navbar, Loader };
+import HomeInfo from "./HomeInfo";
+export { Navbar, Loader, HomeInfo };
