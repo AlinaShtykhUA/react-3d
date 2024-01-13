@@ -97,6 +97,8 @@ const About = () => {
           </VerticalTimeline>
         </div>
       </div>
+
+      <hr className="border-slate-200" />
     </section>
   );
 };
