@@ -146,34 +146,40 @@ export const socialLinks = [
 export const projects = [
   {
     name: "Pokedex",
+    theme: "btn-back-red",
     description:
       "Pokedex itʼs a pc or tablet web application where you can find all pokemons and information about them from pokeAPI. I used react, typescrip, redux-toolkit, firebase for authorization, axios, SCSS",
     link: "https://pokedex-pet.netlify.app/pokemon/1",
   },
   {
     name: "Personal site",
+    theme: "btn-back-green",
     description:
       "Site-portfolio in React, make in single-page application style",
     link: "https://alina-shtykh-portfolio.netlify.app/",
   },
   {
     name: "Quizzical game",
+    theme: "btn-back-blue",
     description:
       "Quizzical game in react. Solo project from Scrimba. I used trivia database API, nanoid, react create app, react hooks, SASS",
     link: "https://remarkable-sable-3880a9.netlify.app/",
   },
   {
     name: "Tenzies game",
+    theme: "btn-back-pink",
     description: "Classic tenzi game in react. I added timer and best score.",
     link: "https://tubular-pithivier-27409e.netlify.app/",
   },
   {
     name: "Game store",
+    theme: "btn-back-black",
     description: "Game store, created in react, redux(toolkit), router",
     link: "https://6481133e05899f0085b99f42--tiny-snickerdoodle-03d324.netlify.app/",
   },
   {
     name: "Nike store",
+    theme: "btn-back-yellow",
     description:
       "Nike store, created in react, redux(toolkit). For design used Tailwind.",
     link: "https://648cacd83722940323c63781--subtle-tanuki-7aeff2.netlify.app/",
